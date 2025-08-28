@@ -18,9 +18,7 @@ A comprehensive web application for energy providers to forecast demand using bi
 - **🔐 Role-Based Access** - Admin, Analyst, and Viewer permissions
 - **📱 Responsive Design** - Works seamlessly on desktop and mobile devices
 
-## 🚀 Live Demo
 
-The application is currently running and can be accessed at:
 - **Frontend**: [http://localhost:3001](http://localhost:3001)
 - **Backend API**: [http://localhost:8000](http://localhost:8000)
 - **API Documentation**: [http://localhost:8000/docs](http://localhost:8000/docs)
@@ -195,22 +193,6 @@ GridInsightPro---Smart-Energy-Demand-Forecaster/
 ├── sample_energy_data.csv   # Sample dataset
 └── README.md               # This file
 ```
-
-## 📸 Screenshots
-
-*Add your screenshots here showing the application in action*
-
-### Dashboard View
-![Dashboard](screenshots/dashboard.png)
-
-### Data Upload
-![Data Upload](screenshots/upload.png)
-
-### Visualization
-![Visualization](screenshots/charts.png)
-
-### Forecast Results
-![Forecast](screenshots/forecast.png)
 
 ## 🤝 Contributing
 
