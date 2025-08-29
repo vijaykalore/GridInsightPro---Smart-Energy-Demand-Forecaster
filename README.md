@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: [your-email@example.com]
+- 📧 **Email**: [vijaykalore.ds@gmail.com]
 - 🐛 **Issues**: [GitHub Issues](https://github.com/vijaykalore/GridInsightPro---Smart-Energy-Demand-Forecaster/issues)
 - 📖 **Documentation**: Check the `/docs` folder
 
